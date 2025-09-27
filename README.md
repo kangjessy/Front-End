@@ -1,16 +1,9 @@
 # 🚀 Filament Projects
 
 Welcome to my collection of **Filament-based projects**.  
+
 Filament is a modern admin panel framework for Laravel—powerful, flexible, and designed to accelerate the development of modern applications.  
 Here, I showcase several experiments, case studies, and real-world applications built with Filament.
-
----
-
-## ✨ Why Filament?
-- ⚡ Build admin panels quickly with minimal coding  
-- 🎨 Clean, modern, and customizable UI out of the box  
-- 🔌 Rich ecosystem of plugins and community packages  
-- 🛠 Suitable for small projects and enterprise-level applications  
 
 ---
 
